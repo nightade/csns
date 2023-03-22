@@ -1,4 +1,4 @@
-# 2021 Reproducing [Louf 2013](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.198702) - About Datasets
+# 2021 Reproducing [Louf 2013](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.198702) - Dataset Description
 
 ## 1. gaz_zcta : Area Data (2000, 2010-2016)
 **Zip Code Tabulate Areas** ... [more](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html)
@@ -36,5 +36,5 @@ Integration of area data(←gaz_zcta) and **employment data(←ZIP Codes Busines
     - index_gaz : row index in gaz_zcta
     - rho : Density of Employment [/m²]
 
-## ykp : Year-\#Subcenter($k$)-Population (alpha=5,10,20)
+## ykp : Year-\#Subcenter($k$)-Population ($\alpha$=5,10,20)
 See SI of the paper
